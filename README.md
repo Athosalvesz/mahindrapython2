@@ -19,17 +19,7 @@ Este projeto é um simulador de corrida desenvolvido para a disciplina de Pensam
 
 4. **Seleção da Pista**: Depois, selecione a pista em que a corrida ocorrerá. A escolha da pista pode influenciar o tipo de pneu e a estratégia recomendada.
 
-5. **Recomendações**: Com base nas suas respostas, o simulador recomendará o tipo de pneu a ser usado e exibirá possíveis desempenhos e configurações para a corrida.
+5. **Recomendações**: Com base nas suas respostas, o simulador recomendará o tipo de pneu a ser usado e exibirá possíveis desempenhos e as configurações para a corrida.
 
 ## Informações Adicionais
 Este simulador foi criado por uma equipe de estudantes usando os conceitos aprendidos na disciplina de Pensamento Computacional. Ele serve como um exemplo prático de aplicação desses conceitos em um projeto real.
-
-## Como Contribuir
-Caso queira contribuir para este projeto, sinta-se à vontade para abrir issues ou enviar pull requests no repositório principal.
-
-## Licença
-Este projeto está licenciado sob a licença XYZ. Consulte o arquivo LICENSE para obter mais detalhes.
-
----
-
-Agradecemos por usar o simulador de corrida Mahindra Formula E. Boa simulação!
