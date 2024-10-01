@@ -1,5 +1,3 @@
-import os
-
 # Respostas esperadas para clima
 resps_clima = {
     "ensolarado": "Seco",
@@ -60,10 +58,15 @@ def desempenho_do_piloto(piloto, pista):
     }
     return desempenho[piloto][pista]
 
+# Função para "limpar" a tela (simulando a limpeza)
+def limpar_tela():
+    print("\n" * 100)
+
 # Função principal do simulador
 def simulador():
     while True:
-        os.system('clear' if os.name == 'posix' else 'cls')
+        # Limpar a tela
+        limpar_tela()
         print("Bem-vindo ao Simulador de Configuração de Corrida da Mahindra Formula E!")
 
         # Previsão do tempo
